@@ -2,7 +2,7 @@
   "name": "cronometros",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Oventura19.github.io/cronometros",
+  "homepage": "https://oventura19.github.io/cronometros",
   "dependencies": {
     "ajv": "^6.12.2",
     "react": "^16.13.1",
