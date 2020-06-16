@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cronometros/static/css/main.8d4b81e6.chunk.css",
+    "main.js": "/cronometros/static/js/main.a1a93c01.chunk.js",
+    "main.js.map": "/cronometros/static/js/main.a1a93c01.chunk.js.map",
+    "runtime-main.js": "/cronometros/static/js/runtime-main.68fb5245.js",
+    "runtime-main.js.map": "/cronometros/static/js/runtime-main.68fb5245.js.map",
+    "static/js/2.e53482c3.chunk.js": "/cronometros/static/js/2.e53482c3.chunk.js",
+    "static/js/2.e53482c3.chunk.js.map": "/cronometros/static/js/2.e53482c3.chunk.js.map",
+    "index.html": "/cronometros/index.html",
+    "precache-manifest.e293775571ceffb4dffbf3d43cb117e1.js": "/cronometros/precache-manifest.e293775571ceffb4dffbf3d43cb117e1.js",
+    "service-worker.js": "/cronometros/service-worker.js",
+    "static/css/main.8d4b81e6.chunk.css.map": "/cronometros/static/css/main.8d4b81e6.chunk.css.map",
+    "static/js/2.e53482c3.chunk.js.LICENSE.txt": "/cronometros/static/js/2.e53482c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68fb5245.js",
+    "static/js/2.e53482c3.chunk.js",
+    "static/css/main.8d4b81e6.chunk.css",
+    "static/js/main.a1a93c01.chunk.js"
+  ]
+}
